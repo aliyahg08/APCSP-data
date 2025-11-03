@@ -1,4 +1,4 @@
-First Name,Last Name,Advisor,Number of Classes,Number of Students,Department,Favorite Color
+FirstName,LastName,Advisor,NumberofClasses,NumberofStudents,Department,Favorite Color
 Lauren,Horne,no,500,0,Principal,Red
 Shantae,Romain,no,500,0,Operations,Blue
 Fernando,Acosta,no,300,0,Math,Yellow
@@ -26,4 +26,5 @@ Gabriela,Penagos,yes,4,34,Spanish,red
 Daphne,Krutulis,yes,4,34,Computer Science,green
 Nicholas,Martin,yes,3,56,Computer Science,blue
 Iris,Oliver,yes,4,70,Computer Science,yellow
+
 Jada,Worthy,yes,4,35,Computer Science,blue
